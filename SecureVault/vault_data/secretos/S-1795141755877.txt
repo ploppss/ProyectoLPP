@@ -1,0 +1,7 @@
+id=S-1795141755877
+tipo=CREDENCIAL
+nombre=Pass DebianVM
+hashNombre=2d9357a4878646b38c8210c12e9cba72dc25865014e3742074280f42ab35e2b6
+contenidoCifrado=Dw0GBBZYXF8=
+usuario=roberto
+servicio=VM\
